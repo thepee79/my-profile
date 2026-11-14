@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my-profile
 
 หน้าเว็บแนะนำตัวสำหรับฝึก Git
@@ -12,3 +13,6 @@
 - `index.html` เนื้อหาของหน้าเว็บ
 - `style.css` การตกแต่ง
 - `.gitignore` รายชื่อไฟล์ที่ไม่ต้องให้ Git เก็บ
+=======
+"# WEB_BAKA" asdsahode aw
+>>>>>>> ff605daaa543b7e55c4be8ac079b07ad4ea54a2b
